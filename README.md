@@ -1,0 +1,1 @@
+Java implementation for message encoding and decoding using a binary tree. Main.java reads an encoding scheme and a binary message, constructs a MsgTree, prints character codes, decodes the message, and displays statistics. MsgTree.java defines the tree structure for building codes, decoding messages, and computing bit‐usage statistics.
